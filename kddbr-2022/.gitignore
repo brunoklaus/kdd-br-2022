@@ -1,0 +1,6 @@
+# File: kddbr-2022/.gitignore
+# Ignore everything in this directory
+*
+# Except for this file
+!.gitignore
+!EXTRACT_KDD_ZIP_HERE.txt
